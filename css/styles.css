@@ -1,0 +1,21 @@
+html, body {
+	margin: 0;
+}
+
+.left, .center ,.right {
+	width: 200px;
+	height: 200px;
+	border: 1px solid purple;
+	margin: 300px 50px;
+	float: left;
+}
+
+.left {
+	background-color: green;
+}
+.center {
+	background-color: pink;
+}
+.right {
+	background-color: purple;
+}
